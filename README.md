@@ -1,4 +1,4 @@
- Multi-Agent System
+## Multi-Agent System
 
 A multilingual assistant system featuring AI agents with different expertise areas and automatic language detection.
 
